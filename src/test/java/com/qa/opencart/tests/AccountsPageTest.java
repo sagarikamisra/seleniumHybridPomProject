@@ -6,9 +6,9 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+import com.qa.opencart.appConstant.AppConstants;
 import com.qa.opencart.baseTest.BaseTest;
 import com.qa.opencart.pages.LoginPage;
-import com.qa.opencat.appConstant.AppConstants;
 
 public class AccountsPageTest extends BaseTest{
 	

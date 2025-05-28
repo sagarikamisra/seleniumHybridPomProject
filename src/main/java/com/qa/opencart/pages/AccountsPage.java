@@ -7,8 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import com.qa.opencart.appConstant.AppConstants;
 import com.qa.opencart.utils.ElementUtils;
-import com.qa.opencat.appConstant.AppConstants;
 
 public class AccountsPage {
 	
